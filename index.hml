@@ -3,7 +3,7 @@
   <head>
       <style>
           body{
-            background-color:#40E0D0;
+            background-color:#140a4f;
           }
           .site{
             width:1000px;
@@ -12,36 +12,37 @@
           .header{
             width:inherit;
             height:100px;
-            background-color:#008B8B;
+            background-color:#1008e7;
+            background-image: url("https://img.freepik.com/vetores-premium/colagem-de-fundo-de-jornal-vintage-com-estilo-de-papel-rasgado_553860-390.jpg?semt=ais_hybrid");
           }
           .main{
             width:inherit;
             height:750px;
-            background-color:#48D1CC;
+            background-color:#81b7de;
           }
           .footer{
             width:inherit;
             height:50px;
-            background-color:#00CED1;
+            background-color:#1140db;
           }
           .esquerda{
             width:200px;
             height:inherit;
-            background-color:#d19900;
+            background-color:#020615;
             display:inline-block;
             float:right;
           }
           .centro{
             width:600px;
             height:inherit;
-            background-color:#d100b9;
+            background-color:#485482;
             display:inline-block;
             float:right;
           }
           .direita{
             width:200px;
             height:inherit;
-            background-color:#680204;
+            background-color:#2a0557;
             display:inline-block;
             float:right;
           }
@@ -57,6 +58,8 @@
 
             </div>
             <div class="centro">
+                <img src="">
+                <input type="image" src="" width="" height="">
 
             </div>
             <div class="direita">
