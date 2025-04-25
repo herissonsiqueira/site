@@ -1,108 +1,90 @@
 <!DOCTYPE html>
 <html lang="PT-BR">
-  <head>
-    <title><abobora</title>
-      <style>
-          body{
-            background-color:#140a4f;
-          }
-          .site{
-            width:1000px;
-            height:900px;
-          }
-          .header{
-            width:inherit;
-            height:50px;
-            background-color:#1008e7;
-            background-image: url("https://img.freepik.com/vetores-premium/colagem-de-fundo-de-jornal-vintage-com-estilo-de-papel-rasgado_553860-390.jpg?semt=ais_hybrid");
-            background-size: 30%;
-      }
-      
-          .main{
-            width:inherit;
-            height:750px;
-            background-color:#81b7de;
-          }
-          .footer{
-            width:inherit;
-            height:100px;
-            background-color:#1140db;
-            background: rgb(61,33,102);
-background: radial-gradient(circle, rgba(61,33,102,1) 0%, rgb(4, 18, 44) 4%, rgba(11,10,13,1) 19%, rgb(8, 28, 211) 69%);
-          }
-          .esquerda{
-            width:100px;
-            height:inherit;
-            background-color:#020615;
-            display:inline-block;
-            float:right;
-            background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqIDyQXGYdxLNF1x4tsl0Zrz88OTEdlsRKCA&s");
-            background-size: 100%;
-          }
-          .centro{
-            width: 600px;px;
-            height:inherit;
-            background-color:#485482;
-            display:inline-block;
-            float:right;
-            
-            .direita_foto{
-            width:100px ;
-            height:300px ;
-            background-image;:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBmg2JWGi-sf_JZbJzChHtzz-TAwzXgJW1w&s");
-            margin-left: 5px;
-            margin-top:70px;
-          }
-          .direita{
-            width:200px;
-            height:inherit;
-            background-color:#2a0557;
-            display:inline-block;
-            float:right;
-           }
-             .foto_mural_1{   
-            width:100%;
-            height:100%;
-            background-image:url("https://static.vecteezy.com/ti/fotos-gratis/t1/11215319-planeta-terra-com-nascer-do-sol-no-espaco-foto.jpg");
-            background-size: 100%;
-            
-            .direita_foto{
-            width:100px ;
-            height:300px ;
-            background-image;:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOBmg2JWGi-sf_JZbJzChHtzz-TAwzXgJW1w&s");
-            margin-left: 5px;
-            margin-top:70px;
-            }
+<head>
+<title>cachorro</title>
+<style>
+body{
+background-color:#051075;
+}
+.site{
+width:1000px;
+height:900px;
+}
+.header{
+width:inherit;
+height:100px;
+background-color:#082944;
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnnV3LjroF6t_oPj8Mldw91slMu6qSbV0GrA&s");
+background-size:30%;
+}
+.main{
+width:inherit;
+height:750px;
+background-color:#010e0dc2;
+}
+.footer{
+width:inherit;
+height:50px;
+background: rgb(18, 23, 45);
+background: radial-gradient(circle, rgba(1, 15, 86, 0.805) 0%, rgb(223, 221, 225) 100%);
+}
+.esquerda{
+width:200px;
+height:inherit;
+background-color:#1a2675;
+display:inline-block;
+float:right;
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlCM-EDmY2I_mQZ1K1FYReJqhXw0sk-gRGIg&s")
+}
+.centro{
+width:600px;
+height:inherit;
+background-color:#0844da;
+display:inline-block;
+float:right;
+}
+.direita{
+width:200px;
+height:inherit;
+background-color:#000000;
+display:inline-block;
+float:right;
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGyQ-wxbHC6Lr-S6GDTcu-6vNY_M98q0xdLQ&s");
+}
+.foto_mural_1{
+width:100%;
+height:50%;
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlMTb4qXyHc1ZMcOzw8M_wd3ouWfxXnBJPzA&s") ;
+background-size: 100%;
+}
 
-          }
+</style>
+</head>
+<body>
+<div class="site">
+<div class="header">
 
-      </style>
-  </head>
-  <body>
-    <div class="site">
-        <div class="header">
+</div>
+<div class="main">
+<div class="esquerda">
 
-        </div>
-        <div class="main">
-            <div class="esquerda">
+</div>
+<div class="centro">
+<h1>bobe</h1>
+<div class="foto_mural_1"></div>
+</div>
+<div class="direita">
+<div class="direita1">
 
-            </div>
-            <div class="centro">
-                <h1>cachorro</h1>
-                <div class="foto_mural_1"></div>
-                <h5>bobe</h5>
+</div>
+<div class="direita2">
 
-            </div>
-            <div class="direita">
-                <div class="direita_foto">
+</div>
+</div>
+</div>
+<div class="footer">
 
-                </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer">
-
-        </div>
-    </div>
-  </body>
+</div>
+</div>
+</body>
 </html>
